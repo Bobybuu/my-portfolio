@@ -385,35 +385,35 @@ form.btn2{
     }
     .header-text{
         margin-top: 100%;
-        font-size: 16px;
-    }
-    .header-text h1{
-        font-size: 30px;
-    }
-    #it{
-        display: block;
+OB        font-size: 16px;
+OB    }
+OB    .header-text h1{
+OB        font-size: 30px;
+OB    }
+OB    #it{
+OB        display: block;
         font-size: 25px;
     }
-    nav ul{
-        background: #ff004f;
+OB    nav ul{
+OB        background: #ff004f;
         position: fixed;
-        top: 0;
+OB        top: 0;
         right:-200px;
         width: 200px;
-        height: 100vh;
+OB        height: 100vh;
         padding-top: 50px;
-        z-index: 2;
+OB        z-index: 2;
         transition: right 0.5s;
     }
-    nav ul li{
+OB    nav ul li{
         display: block;
         margin: 25px;
     }
-    #it{
+OB    #it{
         position: absolute;
         top: 25px;
         right: 25px;
-        cursor: pointer;
+OB        cursor: pointer;
     }
     .sub-title{
         font-size: 40px;
@@ -431,18 +431,18 @@ form.btn2{
         font-size: 16px;
         margin-right: 20px;
     }
-    .contact-left, .contact-right{
+OB    .contact-left, .contact-right{
         flex-basis: 100%;
     }
     .copyright{
         font-size: 14px;
-    }
+OB    }
     
 
 }
     #msg{
-        color: #f70d0d;
+OB        color: #f70d0d;
         margin-top: -40px;
         display: block;
         font-size: 40px;
-    }   
+OB    }   
